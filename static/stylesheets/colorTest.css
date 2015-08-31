@@ -1,0 +1,261 @@
+@import url(/static/stylesheets/reset.css);
+.bar11{
+	position: absolute;
+	background-color: #fff;
+	width: 14.2857%;
+	height: 44.8%;
+	left:0%;
+	top:0%;
+}
+.bar12{
+	position: absolute;
+	background-color: #feff00;
+	width: 14.2857%;
+	height: 44.8%;
+	left:14.2857%;
+	top:0%;
+}
+.bar13{
+	position: absolute;
+	background-color: #00feff;
+	width: 14.2857%;
+	height: 44.8%;
+	left:28.5714%;
+	top:0%;
+}
+.bar14{
+	position: absolute;
+	background-color: #00ff01;
+	width: 14.2857%;
+	height: 44.8%;
+	left:42.8571%;
+	top:0%;
+}
+.bar15{
+	position: absolute;
+	background-color: #ff00ff;
+	width: 14.2857%;
+	height: 44.8%;
+	left:57.1428%;
+	top:0%;
+}
+.bar16{
+	position: absolute;
+	background-color: #ff0100;
+	width: 14.2857%;
+	height: 44.8%;
+	left:71.4285%;
+	top:0%;
+}
+.bar17{
+	position: absolute;
+	background-color: #0100ff;
+	width: 14.2857%;
+	height: 44.8%;
+	left:85.7142%;
+	top:0%;
+}
+
+.bar21{
+	position: absolute;
+	background-color: #e7e7e7;
+	width: 14.2857%;
+	height: 21.7%;
+	left:0%;
+	top:44.8%;
+}
+.bar22{
+	position: absolute;
+	background-color: #e5e600;
+	width: 14.2857%;
+	height: 21.7%;
+	left:14.2857%;
+	top:44.8%;
+}
+.bar23{
+	position: absolute;
+	background-color: #01e7e6;
+	width: 14.2857%;
+	height: 21.7%;
+	top:44.8%;
+	left:28.5714%;
+}
+.bar24{
+	position: absolute;
+	background-color: #00e600;
+	width: 14.2857%;
+	height: 21.7%;
+	top:44.8%;
+	left:42.8571%;
+}
+.bar25{
+	position: absolute;
+	background-color: #e600e6;
+	width: 14.2857%;
+	height: 21.7%;
+	top:44.8%;
+	left:57.1428%;
+}
+.bar26{
+	position: absolute;
+	background-color: #e60000;
+	width: 14.2857%;
+	height: 21.7%;
+	top:44.8%;
+	left:71.4285%;
+}
+.bar27{
+	position: absolute;
+	background-color: #0000e6;
+	width: 14.2857%;
+	height: 21.7%;
+	top:44.8%;
+	left:85.7142%;
+}
+
+.bar31{
+	position: absolute;
+	background-color: #0100ff;
+	width: 14.2857%;
+	height: 9.1%;
+	top:66.5%;
+	left:0%;
+}
+.bar32{
+	position: absolute;
+	background-color: #000000;
+	width: 14.2857%;
+	height: 9.1%;
+	top:66.5%;
+	left:14.2857%;
+}
+.bar33{
+	position: absolute;
+	background-color: #c417c3;
+	width: 14.2857%;
+	height: 9.1%;
+	top:66.5%;
+	left:28.5714%;
+}
+.bar34{
+	position: absolute;
+	background-color: #000000;
+	width: 14.2857%;
+	height: 9.1%;
+	top:66.5%;
+	left:42.8571%;
+}
+.bar35{
+	position: absolute;
+	background-color: #00feff;
+	width: 14.2857%;
+	height: 9.1%;
+	top:66.5%;
+	left:57.1428%;
+}
+.bar36{
+	position: absolute;
+	background-color: #000000;
+	width: 14.2857%;
+	height: 9.1%;
+	top:66.5%;
+	left:71.4285%;
+}
+.bar37{
+	position: absolute;
+	background-color: #ffffff;
+	width: 14.2857%;
+	height: 9.1%;
+	top:66.5%
+	left:85.7142%;
+}
+
+.bar41{
+	position: absolute;
+	background-color: #00214c;
+	width: 16.6667%;
+	height: 24.4%;
+	top:75.6%;
+	left:0%;
+}
+.bar42{
+	position: absolute;
+	background-color: #ffffff;
+	width: 16.6667%;
+	height: 24.4%;
+	top:75.6%;
+	left:16.6667%;
+}
+.bar43{
+	position: absolute;
+	background-color: #32006a;
+	width: 16.6667%;
+	height: 24.4%;
+	top:75.6%;;
+	left:33.3334%;
+}
+.bar44{
+	position: absolute;
+	background-color: #ffffff;
+	width: 16.6667%;
+	height: 24.4%;
+	top:75.6%;
+	left:50.0001%;
+}
+.bar451{
+	position: absolute;
+	background-color: #090909;
+	width: 5.5556%;
+	height: 24.4%;
+	top:75.6%;
+	left:66.6668%;
+}
+.bar452{
+	position: absolute;
+	background-color: #131313;
+	width: 5.5556%;
+	height: 24.4%;
+	top:75.6%;
+	left:72.2224%;
+}
+.bar453{
+	position: absolute;
+	background-color: #1d1d1d;
+	width: 5.5556%;
+	height: 24.4%;
+	top:75.6%;
+	left:77.778%;
+}
+.bar46{
+	position: absolute;
+	background-color: #000000;
+	width: 14.2857%;
+	height: 9.1%;
+	top:66.5%;
+	left:83.3336%;
+}
+
+body {
+  font-size: 1rem;
+  font-family: 'GIRegular';
+}
+
+ul {
+	z-index: 50;
+  position:fixed;
+  top:30%;
+  left: 47.2%;
+  width:57.142857142857142857142857142857%;
+  margin-top:-25px;
+  margin-left:-350px;
+  list-style:none;
+ }
+li {
+    width:24.4333%;
+    display:inline-block;
+    text-align:center;
+ }   
+span {
+    font-size: 8rem;
+    font-weight:bold;
+}

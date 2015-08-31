@@ -1,4 +1,4 @@
-application:  pup-dbms-m5-14
+application: pup-dbms-m5-14
 version: 1
 runtime: python27
 api_version: 1

@@ -16,6 +16,7 @@
                     $('table tr:first').after('<tr></tr>');
                     $('tr:eq(1)').append('<td class="yr">'+ response.data.year + '</td>');
                     $('tr:eq(1)').append('<td class="yr">'+ response.data.title + '</td>');
+                    $('tr:eq(1)').append('<td class="yr">'+ response.data.created_by + '</td>');
                     //$('tr:eq(1)').append('<td class="yr">'+ response.data.abstract + '</td>');
                     //$('tr:eq(1)').append('<td class="yr">'+ response.data.adviser + '</td>');
                     //$('tr:eq(1)').append('<td class="yr">'+ response.data.section + '</td>');
@@ -39,6 +40,7 @@
                 $('table tr:first').after('<tr></tr>');
                 $('tr:eq(1)').append('<td class="yr">'+ thesis.year + '</td>');
                 $('tr:eq(1)').append('<td class="yr">'+ thesis.title + '</td>');
+                $('tr:eq(1)').append('<td class="yr">'+ thesis.created_by + '</td>');
                 /*
                 $('tr:eq(1)').append('<td class="yr">'+ thesis.abstract + '</td>');
                 $('tr:eq(1)').append('<td class="yr">'+ thesis.adviser + '</td>');

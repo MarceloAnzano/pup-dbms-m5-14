@@ -11,7 +11,8 @@ body {
 	top: 0px;
 	width: 100%;
 	position: fixed;
-	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	/*font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;*/
+	font-family: 'GIRegular';
 	color:rgba(251,251,251,1.00);
 	height: 60px;
 	line-height: 60px;
@@ -46,7 +47,8 @@ a{
 	position: relative;
 	width: 100%;
 	font-size: 25px;
-	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	/*font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;*/
+	font-family: 'GIRegular'; 
 	text-align:center;
 	background-color: #2196F3;
 	height: 50px;
@@ -98,7 +100,8 @@ form{
 label{
 	font-size:15px;
 	position:absolute;
-	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	/*font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;*/
+	font-family: 'GIRegular'; 
 	font-size: 18px;
 	text-align:right;
 	line-height:30px;
@@ -152,7 +155,8 @@ input{
 .button {
 	background-color: #40C4FF;
 	position:relative;
-	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	/*font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;*/
+	font-family: 'GIRegular';
 	font-weight:600;
 	text-wrap:suppress;
 	font-size:16px;
